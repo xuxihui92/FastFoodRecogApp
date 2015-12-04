@@ -1,6 +1,6 @@
 /*
  * This file is auto-generated.  DO NOT MODIFY.
- * Original file: /Users/Shawn/GitHub/Shell-CC/FastFoodRecogApp/OpenCV2411/src/main/aidl/org/opencv/engine/OpenCVEngineInterface.aidl
+ * Original file: /Users/admin/AndroidStudioProjects/FastFoodRecogApp/OpenCV2411/src/main/aidl/org/opencv/engine/OpenCVEngineInterface.aidl
  */
 package org.opencv.engine;
 /**
